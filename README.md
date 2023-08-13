@@ -1,7 +1,7 @@
 # Plutonium-Discord-Population-Status-Bot
 Sets the map and player count of a Plutonium server as a bot's status for Discord.
 
-Uses API from PluTools (plutools.pw/)
+Uses API from PluTools (https://plutools.pw/)
 Works with IW5/T4/T4ZM/T5/T5ZM/T6/T6ZM/IW4x/IW6/S1 Plutonium or Alterware servers
 
 ## Requirements
